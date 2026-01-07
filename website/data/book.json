@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A medical student who dismissed early symptoms as travel fatigue becomes patient zero in a hostel pandemic outbreak, dying alone in quarantine after infecting dozens.",
     "long": ""
   },
   "death_type": "Disease Outbreak",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She thought she knew better. The virus disagreed."
 }
